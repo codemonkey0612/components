@@ -105,3 +105,7 @@ docs/**
 !/packages/projen/project/typescript/src/typescript-config-options.ts
 !/packages/projen/project/typescript/src/typescript-project-options.ts
 !/packages/projen/project/nx-monorepo/src/nx-monorepo-project-options.ts
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
